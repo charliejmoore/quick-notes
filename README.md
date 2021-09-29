@@ -10,6 +10,5 @@
 - [JavaScript](javascript-notes.md)
 
 ## Development Lists
-- [A list of cool Angular libraries](angular-libraries.md)
 - [A list of my favorite development dependencies](dev-dependencies.md)
 - [A list of cool JavaScript libraries](javascript-libraries.md)
