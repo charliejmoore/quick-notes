@@ -1,6 +1,6 @@
 # 📓 Quick Notes
 
-[Quick Notes](https://charliejmoore.github.io/quick-notes/) contains a variety of lists and notes about various topics.
+[Quick Notes](https://charliejmoore.github.io/quick-notes/) contains a variety of lists and cheatsheets, and notes about various tech topics.
 
 # ✨ Contents
 
