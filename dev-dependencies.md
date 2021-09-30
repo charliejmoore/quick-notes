@@ -1,4 +1,4 @@
-# Dev Dependency Notes
+# 🛠️ Dev Dependency Notes
 
 # Favorite Dev Dependencies
 
@@ -14,7 +14,7 @@
 
 ## TypeScript/JavaScript
 
-### Testing
+### 🧪 Testing
 - [Jest](https://jestjs.io/): `npm install -D jest` and for TypeScript, also `npm install -D @types/jest ts-jest`
 - [Jasmine](https://jasmine.github.io/)
 
@@ -22,5 +22,5 @@
 ## Angular
 - [Compodoc](https://compodoc.app/guides/getting-started.html): A tool that generates documentation for Angular projects. `npm install -D @compodoc/compodoc`.
 
-### Testing
+### 🧪 Testing
 - [ngMocks](https://ng-mocks.sudo.eu/)

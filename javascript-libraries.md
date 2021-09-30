@@ -1,11 +1,11 @@
 # JavaScript Libraries
 
-#### Data Visualization
+#### 📊 Data Visualization
 - [List of graph visualization libraries](https://elise-deux.medium.com/the-list-of-graph-visualization-libraries-7a7b89aab6a6)
 - [Chart.js](https://github.com/chartjs/Chart.js)
 - [wavesurfer.js](https://wavesurfer-js.org/): A customizable audio waveform visualization.
 
-#### Geospatial + Maps
+#### 🗺️ Geospatial + Maps
 - [Turf.js](http://turfjs.org/): Advanced geospatial analysis for browsers and Node.js.
 - [Leaflet.js](https://leafletjs.com/): An open-source JavaScript library for mobile-friendly interactive maps.
 - [MabLibre](https://maplibre.org/): Open-source mapping libraries for developers of web and mobile applications.
@@ -20,10 +20,10 @@
 #### Parsing
 - [Showdown.js: A bidirectional Markdown to HTML to Markdown converter written in Javascript](https://github.com/showdownjs/showdown)
 
-#### Text Editors
+#### ⌨️ Text Editors
 - [quill.js](https://quilljs.com/docs/quickstart/): A powerful rich text editor.
 
-#### Databases + ORMs
+#### 🗄️ Databases + ORMs
 - [Objection.js](https://vincit.github.io/objection.js/)
 
 #### Currently Uncategorized
@@ -34,6 +34,6 @@
 - [Fabric.js](https://github.com/fabricjs/fabric.js): Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 - [Color Thief](https://lokeshdhakar.com/projects/color-thief/): Grab the color palette from an image using just Javascript. Works in the browser and in Node.
 
-#### Testing
+#### 🧪 Testing
 - [Jest](https://jestjs.io/)
 - [Jasmine](https://jasmine.github.io/)
