@@ -13,9 +13,10 @@
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/)
 - [OpenLayers](https://openlayers.org/)
 
-#### Multimodal
+#### Multimodal/Interactions
 - [Handsfree.js](https://handsfree.dev/): Add face, hand, and pose tracking to your projects in a snap.
-- [MIDIVal](https://midival.github.io/): TypeScript / JavaScript library for sending and recieving MIDI data using tidly organised API. It is easily extendable, platform agnostic and built with modern patterns in mind.
+- [MIDIVal](https://midival.github.io/): TypeScript / JavaScript library for sending and receiving MIDI data using tidly organised API. It is easily extendable, platform agnostic and built with modern patterns in mind.
+- [Hotkey](https://github.com/github/hotkey): Trigger an action on an element with a keyboard shortcut.
 
 #### Parsing
 - [Showdown.js: A bidirectional Markdown to HTML to Markdown converter written in Javascript](https://github.com/showdownjs/showdown)
