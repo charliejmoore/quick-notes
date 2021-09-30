@@ -7,6 +7,7 @@
 ## Development Notes
 - [Angular](angular-notes.md)
 - [Git](git-notes.md)
+  - [Git Commit Emoji Cheatsheet](git-commit-emoji.md)
 - [JavaScript](javascript-notes.md)
 
 ## Development Lists
