@@ -26,7 +26,7 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 🚨 Fix compiler or linter warnings
 - 🔇 Remove logs
 - 🔊 Add/update logs
-- 🙈 Add/update gitignore/eslintignore
+- 🙈 Add/update `.gitignore`/`.eslintignore`
 - 🚀 Deploy
 - 🔖 Release a version
 - 💚 Fix CI build
