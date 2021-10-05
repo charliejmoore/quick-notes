@@ -1,4 +1,4 @@
-# JavaScript Libraries
+# 📚 JavaScript Libraries
 
 #### 📊 Data Visualization
 - [List of graph visualization libraries](https://elise-deux.medium.com/the-list-of-graph-visualization-libraries-7a7b89aab6a6)

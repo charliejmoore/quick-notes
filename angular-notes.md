@@ -1,4 +1,4 @@
-# Angular Notes
+# 📓 Angular Notes
 
 [Angular](https://angular.io/) is a TypeScript-based web framework maintained by Google.
 

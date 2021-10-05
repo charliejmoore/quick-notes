@@ -1,6 +1,6 @@
-# Git Notes
+# 📓 Git Notes
 
-### Useful Commands
+### 💻 Useful Commands
 - `git status --ignored` will show you what is being ignored
 - `git commit --amend -m "an updated commit message"` to update your latest commit message if you made a typo
 
