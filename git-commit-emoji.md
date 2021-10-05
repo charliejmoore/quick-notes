@@ -65,3 +65,4 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 👥 Add/update contributors
 - 📝 Add/update README-type documentation
 - 📄 Add/update license
+- 😃 Add emoji
