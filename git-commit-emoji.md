@@ -13,7 +13,7 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 📱 Work on responsive design
 - 💫 Update animations/transitions
 - 🥅 Catch errors
-- ♿️ Improve accessibilty
+- ♿️ Improve accessibility
 - 🔀 Merge branches
 - ⏪️ Revert changes
 - 🔍️ Improve SEO
