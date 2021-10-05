@@ -66,3 +66,8 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 📝 Add/update README-type documentation
 - 📄 Add/update license
 - 😃 Add emoji
+
+## Other
+- 📙 References/Resources
+- 📓 Notes
+- 🗂️ Table of contents/Index
