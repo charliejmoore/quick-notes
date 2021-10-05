@@ -13,3 +13,6 @@
 ## Development Lists
 - [A list of my favorite development dependencies](dev-dependencies.md)
 - [A list of cool JavaScript libraries](javascript-libraries.md)
+
+## Tool Cheatsheets
+- [Chrome Cheatsheet](chrome-cheatsheet.md)
