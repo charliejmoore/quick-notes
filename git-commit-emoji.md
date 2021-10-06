@@ -1,4 +1,4 @@
-# Git Commit Emoji Cheatsheet
+# 📝 Git Commit Emoji Cheatsheet
 
 This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailored to my workflow, use cases, and preferences and organized according to [conventional commit category](https://karma-runner.github.io/0.10/dev/git-commit-msg.html).
 

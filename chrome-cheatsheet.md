@@ -1,4 +1,4 @@
-# Chrome Cheatsheet
+# 📝 Chrome Cheatsheet
 
 ## 💡 Productivity Tips
 - Right click a Chrome tab to create a group/add tab to a group so you can visually minimize clutter and close things at once
