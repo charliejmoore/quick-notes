@@ -1,8 +1,8 @@
 # 📓 Git Notes
 
 ## 💻 Useful Commands
-- `git status --ignored` will show you what is being ignored
-- `git commit --amend -m "an updated commit message"` to update your latest commit message if you made a typo
+- `git status --ignored` will show you what is being ignored.
+- `git commit --amend -m "an updated commit message"` to update your latest commit message if you made a typo.
 
 ## ✅ Commits
 - [Gitmoji](https://gitmoji.dev/): An emoji guide for git commits. They're fun and can help you make better commits. Also see my [customized git commit emoji cheatsheet](git-commit-emoji.md).
