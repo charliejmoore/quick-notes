@@ -79,11 +79,11 @@ From the command line, you can do this with the `git add --patch` and `git add -
 - [Git Better](https://gitbetter.substack.com/): A newsletter about git tips.
 
 ## 📚 References
-- [1]: [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-- [2]: [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-- [3]: [How can I commit some changes to a file, but not others, in VSCode?](https://stackoverflow.com/questions/34730585/how-can-i-commit-some-changes-to-a-file-but-not-others-in-vscode)
-- [4]: [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
-- [5]: [How to Use a .gitignore File](https://www.pluralsight.com/guides/how-to-use-gitignore-file)
-- [6]: [Developer Tip: Keep Your Commits “Atomic”](https://www.freshconsulting.com/insights/blog/atomic-commits/)
-- [7]: [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
-- [8]: [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
+- [1] [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+- [2] [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+- [3] [How can I commit some changes to a file, but not others, in VSCode?](https://stackoverflow.com/questions/34730585/how-can-i-commit-some-changes-to-a-file-but-not-others-in-vscode)
+- [4] [git add --patch and --interactive](https://nuclearsquid.com/writings/git-add/)
+- [5] [How to Use a .gitignore File](https://www.pluralsight.com/guides/how-to-use-gitignore-file)
+- [6] [Developer Tip: Keep Your Commits “Atomic”](https://www.freshconsulting.com/insights/blog/atomic-commits/)
+- [7] [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [8] [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
