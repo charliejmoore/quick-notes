@@ -2,7 +2,8 @@
 
 ## 💻 Useful Commands
 - `git status --ignored` will show you what is being ignored.
-- `git commit --amend -m "an updated commit message"` to update your latest commit message if you made a typo.
+- `git commit --amend -m "an updated commit message"` to update your latest commit message if you made a typo. You can also add additional files to a commit by adding them before running this command.
+  - If you don't want to type a new commit message when adding files to a commit, you can do `git commit --amend --no-edit` to keep the previous commit message.
 - `git status` will show a list of files that contain uncommitted changes. These files are grouped into two sections: uncommitted changes that have been staged (e.g., you've done `git add` on these) and uncommitted files that have not been staged. 💡 Tip: This command is super useful for spotting hidden files that sneak their way into commits if you don't have them ignored/your `.gitignore` set up yet (I'm looking at you `.DS_Store`).
 
 ## ✅ Commits
