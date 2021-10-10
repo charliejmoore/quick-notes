@@ -29,3 +29,4 @@
 - [Angular Checklist](https://angular-checklist.io/default/checklist): A checklist of various Angular best practices.
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Step-by-step instructions for how to change between Angular versions](https://update.angular.io/)
+- [Create your Standalone Angular Library in 10 minutes](https://indepth.dev/posts/1193/create-your-standalone-angular-library-in-10-minutes)
