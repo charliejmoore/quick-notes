@@ -34,7 +34,7 @@ A diff will show you what has changed in the codebase, and the commit message is
   <footer>
 ```
 
-I think the most important parts are the subject and body. I'm a big fan of type too. I haven't used footer, because the convention on my teams is to include Jira ticket numbers in the commit subject, and I also haven't used scope, which hasn't had an obvious use in my particular projects so far.
+I think the most important parts are the subject and body. I'm a big fan of type too. I haven't used footer, because the convention in teams I've work on is to include Jira ticket numbers in the commit subject, and I also haven't used scope, which hasn't had an obvious use in my particular projects so far.
 
 
 Example commit without a footer.
@@ -56,6 +56,7 @@ Related: PR #87, PR #86"
 
 ### Tools for Making Good Commits
 
+#### Granular staging with interactive mode!
 To help make atomic commits, you can stage chunks of code -- you don't have to stage an entire file at once!<sup>[3](#references)</sup> in VS Code there's a way to visually select chunks to stage, as shown in the image below. You can also right click on the section of code you want to stage and an open will appear in the context menu for staging/un-staging the selected range.
 
 ![Image showing how to use interactive staging mode through VS Code interface](images/git/2021-08-24-19-03-02.png)
@@ -64,8 +65,8 @@ From the command line, you can do this with the `git add --patch` and `git add -
 
 ### Other Resources For Good Commits
 
-- [Gitmoji](https://gitmoji.dev/): An emoji guide for git commits. They're fun and can help you make better commits. Also see my [customized git commit emoji cheatsheet](git-commit-emoji.md).
-- [Angular's configuration of commitlint](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional#type-enum): Shows examples of categories of conventional git commit messages to help you make more sensible commits.
+- [Gitmoji](https://gitmoji.dev/): An emoji guide for git commits. They're fun and can help you identify what types of changes go together as a commit. Also see my [customized git commit emoji cheatsheet](git-commit-emoji.md).
+- [Angular's configuration of commitlint](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional#type-enum): Shows examples of categories of conventional git commit messages to help you make more meaningful commits.
 - [Karma commit style](https://karma-runner.github.io/0.10/dev/git-commit-msg.html): Shows examples of conventional commits.
 
 ## 🛠️ Tools
@@ -73,7 +74,7 @@ From the command line, you can do this with the `git add --patch` and `git add -
 - [github/gitignore](https://github.com/github/gitignore): A collection of useful `.gitignore` templates.
 
 ## 💡 Tips
-- Keep a `commits.md` file handy as a kind of "scratch paper" where you can write out commits so you can paste them into your terminal. This can make it easier to make sure your commit message is formatted properly, especially if you have more than just a one-line commit title.
+- Keep a `commits.md` or some "scratch paper" type file handy where you can write out commits so you can paste them into your terminal. This can make it easier to make sure your commit message is formatted properly, especially if you have more than just a one-line commit title.
 
 ## 📙 Resources
 - [Git Better](https://gitbetter.substack.com/): A newsletter about git tips.
