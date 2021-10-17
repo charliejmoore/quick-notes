@@ -78,6 +78,7 @@ From the command line, you can do this with the `git add --patch` and `git add -
 
 ## 📙 Resources
 - [Git Better](https://gitbetter.substack.com/): A newsletter about git tips.
+- [6.031 Software Construction - Version Control Lecture](https://web.mit.edu/6.031/www/sp17/classes/05-version-control/): This was the lesson on version control from a class I took in college that I thought was pretty beginner friendly.
 
 ## 📚 References
 - [1] [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
