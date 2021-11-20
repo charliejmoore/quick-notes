@@ -19,6 +19,8 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 🔍️ Improve SEO
 - 🚧 Work in progress
 - 🥅 Catch errors
+- 🍱 Add or update assets
+- 👽️ Update code due to external API changes
 
 **chore:**
 - 🔧 Tooling for configs (e.g., `tsconfig`, GitHub actions, many `yml` files)
@@ -32,6 +34,7 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 💚 Fix CI build
 - 📌 Pin dependencies to specific versions
 - 📦 Update `package.json` and similar files
+- 👷 Add/update CI or build system
 
 **style:**
 - 🎨 Improve structure/format of the code
