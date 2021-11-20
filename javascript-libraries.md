@@ -4,6 +4,9 @@
 - [List of graph visualization libraries](https://elise-deux.medium.com/the-list-of-graph-visualization-libraries-7a7b89aab6a6)
 - [Chart.js](https://github.com/chartjs/Chart.js)
 - [wavesurfer.js](https://wavesurfer-js.org/): A customizable audio waveform visualization.
+- [cytoscape.js](https://js.cytoscape.org/): Graph theory (network) library for visualisation and analysis.
+- [vizzu](https://github.com/vizzuhq/vizzu-lib): Library for animated data visualizations and data stories.
+
 
 #### 🗺️ Geospatial + Maps
 - [Turf.js](http://turfjs.org/): Advanced geospatial analysis for browsers and Node.js.
@@ -38,3 +41,5 @@
 #### 🧪 Testing
 - [Jest](https://jestjs.io/)
 - [Jasmine](https://jasmine.github.io/)
+- [jest-test-gen](https://github.com/egm0121/jest-test-gen): This tool will take a js/ts file as input and generate a jest unit test file next to it with all imports mocked and tests stubs for every class method and function exported.
+- [jasmine-unit-test-generator](https://github.com/FDIM/jasmine-unit-test-generator)
