@@ -1,9 +1,9 @@
 # 📓 Angular Notes
 
-[Angular](https://angular.io/) is a TypeScript-based web framework maintained by Google.
+[Angular](https://angular.io/) is a [TypeScript](https://www.typescriptlang.org/)-based web framework maintained by Google.
 
 ## 💡 Tips
-- An `HttpClient` method does not begin its HTTP request until you call `subscribe()` on the observable returned by that method. This is true for all `HttpClient` methods.
+- An `HttpClient` method does not begin its HTTP request until you call `subscribe()` on the observable returned by that method. This is true for all of [Angular's HttpClient methods](https://angular.io/api/common/http/HttpClient).
 
 ## ✨ Cool Libraries
 - [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill): Angular (>=2) components for the Quill Rich Text Editor.
@@ -30,3 +30,4 @@
 - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
 - [Step-by-step instructions for how to change between Angular versions](https://update.angular.io/)
 - [Create your Standalone Angular Library in 10 minutes](https://indepth.dev/posts/1193/create-your-standalone-angular-library-in-10-minutes)
+- [InDepthDev: Angular inDepth](https://indepth.dev/angular): This site has really good articles/tutorials about more advanced Angular topics than you'd typically see elsewhere online.
