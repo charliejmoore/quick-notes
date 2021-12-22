@@ -15,6 +15,7 @@
 - [Awesome Maps](https://github.com/simsieg/awesome-maps): A collection of maps. Maybe some code, but not all code.
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/latest/)
 - [OpenLayers](https://openlayers.org/)
+- [geodesy](https://github.com/chrisveness/geodesy): Libraries of geodesy functions implemented in JavaScript for geospatial calculations.
 
 #### Multimodal/Interactions
 - [Handsfree.js](https://handsfree.dev/): Add face, hand, and pose tracking to your projects in a snap.
@@ -43,3 +44,6 @@
 - [Jasmine](https://jasmine.github.io/)
 - [jest-test-gen](https://github.com/egm0121/jest-test-gen): This tool will take a js/ts file as input and generate a jest unit test file next to it with all imports mocked and tests stubs for every class method and function exported.
 - [jasmine-unit-test-generator](https://github.com/FDIM/jasmine-unit-test-generator)
+
+#### Media
+- [docx.js](https://docx.js.org/#/): Easily generate .docx files with JS/TS. Works for Node and on the Browser.
