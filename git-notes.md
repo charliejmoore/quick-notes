@@ -90,3 +90,5 @@ From the command line, you can do this with the `git add --patch` and `git add -
 - [6] [Developer Tip: Keep Your Commits “Atomic”](https://www.freshconsulting.com/insights/blog/atomic-commits/)
 - [7] [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [8] [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
+- [9] [How to Learn Git Slowly](https://suchdevblog.com/lessons/HowToLearnGit.html#how-to-learn-git-slowly)
+- [10] [Atlassian Getting Git Right](https://www.atlassian.com/git)

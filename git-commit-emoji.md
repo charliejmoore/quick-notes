@@ -1,6 +1,6 @@
 # 📝 Git Commit Emoji Cheatsheet
 
-This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailored to my workflow, use cases, and preferences and organized according to [conventional commit category](https://karma-runner.github.io/0.10/dev/git-commit-msg.html).
+This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailored to my workflow, use cases, and preferences and organized according to [conventional commit category](https://karma-runner.github.io/0.10/dev/git-commit-msg.html). [Here's](https://gist.github.com/rxaviers/7360908) a gist showing all emojis in one place.
 
 **feat:**
 - 🎉 Begin a project
@@ -18,7 +18,6 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - ⏪️ Revert changes
 - 🔍️ Improve SEO
 - 🚧 Work in progress
-- 🥅 Catch errors
 - 🍱 Add or update assets
 - 👽️ Update code due to external API changes
 
@@ -35,6 +34,7 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 📌 Pin dependencies to specific versions
 - 📦 Update `package.json` and similar files
 - 👷 Add/update CI or build system
+- 🐳 Docker
 
 **style:**
 - 🎨 Improve structure/format of the code
@@ -74,3 +74,9 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 📙 References/Resources
 - 📓 Notes
 - 🗂️ Table of contents/Index
+- ✂️ Snippet
+- 🏗️ Build
+- 🧪 Tests
+- 💾 Installation
+- ✅ Requirements
+- 🛠️ Tools, scaffolding
