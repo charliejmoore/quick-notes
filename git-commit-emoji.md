@@ -20,6 +20,12 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 🚧 Work in progress
 - 🍱 Add or update assets
 - 👽️ Update code due to external API changes
+- 💥 Introduce breaking changes
+- 🛂 Work on code related to authorization, roles and permissions
+- 👔 Add/update business logic
+- 🧱 Infrastructure-related changes
+- 🧑‍💻 Improve developer experience
+- 💬 Add or update text and literals
 
 **chore:**
 - 🔧 Tooling for configs (e.g., `tsconfig`, GitHub actions, many `yml` files)
@@ -46,6 +52,7 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 🐛 Fix a bug
 - ✏️ Fix a typo
 - 👽️ Update code due to 3rd party changes
+- 🩹 Simple fix for a non-critical issue
 
 **refactor:**
 - 🧼 Clean up
@@ -55,6 +62,7 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 🏗️ Make architectural changes
 - ⚰️ Remove dead code
 - 👌 Code review changes
+- 🗑️ Deprecate code that needs to be cleaned up
 
 **test:**
 - ✅ Add, update, or pass a test
@@ -80,3 +88,4 @@ This is very inspired by the [Gitmoji](https://gitmoji.dev/) list but more tailo
 - 💾 Installation
 - ✅ Requirements
 - 🛠️ Tools, scaffolding
+- 😎 Cool update
