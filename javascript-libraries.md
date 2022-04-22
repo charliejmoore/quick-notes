@@ -19,7 +19,7 @@
 
 #### Multimodal/Interactions
 - [Handsfree.js](https://handsfree.dev/): Add face, hand, and pose tracking to your projects in a snap.
-- [MIDIVal](https://midival.github.io/): TypeScript / JavaScript library for sending and receiving MIDI data using tidly organised API. It is easily extendable, platform agnostic and built with modern patterns in mind.
+- [MIDIVal](https://midival.github.io/): TypeScript / JavaScript library for sending and receiving MIDI data using tidly-organized API. It is easily extendable, platform agnostic and built with modern patterns in mind.
 - [Hotkey](https://github.com/github/hotkey): Trigger an action on an element with a keyboard shortcut.
 
 #### Parsing
@@ -38,6 +38,9 @@
 - [Handsontable](https://github.com/handsontable/handsontable): JavaScript data grid with a spreadsheet look & feel. Works for React, Angular, and Vue.
 - [Fabric.js](https://github.com/fabricjs/fabric.js): Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 - [Color Thief](https://lokeshdhakar.com/projects/color-thief/): Grab the color palette from an image using just Javascript. Works in the browser and in Node.
+- [faker.js](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js.
+- [jsPDF](https://github.com/parallax/jsPDF):Client-side JavaScript PDF generation for everyone.
+- [deeplinks.js](https://github.com/WesleyAC/deeplinks): deeplinks.js allows people to easily link directly to any text selection on your website. Here's an example of what one of these links looks like. It's intended mostly for blogs and other such websites, but it's relatively agnostic to the environment it's running in.
 
 #### 🧪 Testing
 - [Jest](https://jestjs.io/)

@@ -16,7 +16,7 @@
 
 ### 🧪 Testing
 - [Jest](https://jestjs.io/): `npm install -D jest` and for TypeScript, also `npm install -D @types/jest ts-jest`
-- [Jasmine](https://jasmine.github.io/)
+- [Jasmine](https://jasmine.github.io/): Built in with Angular by default.
 
 
 ## Angular
