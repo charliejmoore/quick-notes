@@ -4,7 +4,7 @@
 - [List of graph visualization libraries](https://elise-deux.medium.com/the-list-of-graph-visualization-libraries-7a7b89aab6a6)
 - [Chart.js](https://github.com/chartjs/Chart.js)
 - [wavesurfer.js](https://wavesurfer-js.org/): A customizable audio waveform visualization.
-- [cytoscape.js](https://js.cytoscape.org/): Graph theory (network) library for visualisation and analysis.
+- [cytoscape.js](https://js.cytoscape.org/): Graph theory (network) library for visualization and analysis.
 - [vizzu](https://github.com/vizzuhq/vizzu-lib): Library for animated data visualizations and data stories.
 
 
