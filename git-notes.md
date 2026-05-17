@@ -73,6 +73,21 @@ From the command line, you can do this with the `git add --patch` and `git add -
 - [commitlint](https://github.com/conventional-changelog/commitlint): Linting for your commits.
 - [github/gitignore](https://github.com/github/gitignore): A collection of useful `.gitignore` templates.
 
+### Zsh Aliases
+Here are some useful [Zsh](https://zsh.sourceforge.io/) aliases to put in your `.zshrc`:
+
+```sh
+# Git aliases
+alias gcm="git commit -m"
+alias gcb="git checkout -b"
+# Undo last commit but keep changes
+alias gundo="git reset --soft HEAD~1"
+# Add staged files to last commit, no new message
+alias gfix="git commit --amend --no-edit"
+# Abort merge
+alias gabort="git merge --abort"
+```
+
 ## 💡 Tips
 - Keep a `commits.md` or some "scratch paper" type file handy where you can write out commits so you can paste them into your terminal. This can make it easier to make sure your commit message is formatted properly, especially if you have more than just a one-line commit title.
 
