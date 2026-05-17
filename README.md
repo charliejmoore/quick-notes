@@ -9,6 +9,7 @@
 - [Git](git-notes.md)
   - [Git Commit Emoji Cheatsheet](git-commit-emoji.md)
 - [JavaScript](javascript-notes.md)
+- [VSCode](vscode.md)
 
 ## 📝 Development Lists
 - [A list of my favorite development dependencies](dev-dependencies.md)
