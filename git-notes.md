@@ -73,6 +73,7 @@ From the command line, you can do this with the `git add --patch` and `git add -
 - [commitlint](https://github.com/conventional-changelog/commitlint): Linting for your commits.
 - [github/gitignore](https://github.com/github/gitignore): A collection of useful `.gitignore` templates.
 - [gitignore generator](https://www.toptal.com/developers/gitignore/) based on language/framework.
+- [Git Large File Storage (LFS)](https://git-lfs.com/) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
 
 ### Zsh Aliases
 Here are some useful [Zsh](https://zsh.sourceforge.io/) aliases to put in your `.zshrc`:
